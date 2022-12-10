@@ -1,2 +1,2 @@
-# Autoclicker
+# Lazarus Autoclicker
 Fully C++ coded minecraft autoklicker 
