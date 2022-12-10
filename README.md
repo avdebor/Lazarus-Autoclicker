@@ -2,7 +2,7 @@
 Fully C++ coded minecraft autoklicker 
 
 # How to use?
-1 Download or clone thr repository
+-1 Download or clone thr repository
 2 Open the Lazarus.sln file
 3 Set the compile mode from "Debug" to "Release"
 4 Compile the solution
