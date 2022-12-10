@@ -1,2 +1,2 @@
-# Autoclicker-
+# ~Autoclicker~
 Fully C++ coded minecraft autoklicker 
