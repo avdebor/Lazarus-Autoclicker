@@ -4,6 +4,7 @@
 #include<stdio.h>
 #include<string>
 
+//color in console enum 
 HANDLE hConsole;
 
 enum ColorConsole {
